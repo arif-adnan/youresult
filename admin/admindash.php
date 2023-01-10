@@ -16,7 +16,7 @@ session_start();
     <title>Admin Dashboard</title>
 <link rel="stylesheet" href="../csss/admindash.css" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Flamenco" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 </head>
 <body>

@@ -16,7 +16,7 @@ session_start();
     <title>Update Record</title>
 <link rel="stylesheet" href="../csss/updatemark.css" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Flamenco" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 </head>
 <body>
@@ -42,7 +42,7 @@ session_start();
             <th>Enter Class : </th>
             <td><input type="text" name="class" class="box"/></td>
             
-            <th>Student ID : </th>
+            <th>Student Roll no : </th>
             <td><input type="text" name="rollno" class="box"/></td>
                 
             </tr>

@@ -3,7 +3,7 @@
     <title>About</title>
 <link rel="stylesheet" href="../csss/aboutus.css" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Flamenco" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 </head>
 <body>
@@ -29,7 +29,7 @@
             <p>The Student Result Management System is a technological opportunity for educational institutions like schools, colleges, and universities as well as coaching centers looking for a safe, straightforward replacement for the traditional paper-based exam results evaluation, reporting, and distribution methods.</p>
              </div>  
           </div>
-          <div id="copyright"><footer><small>©Team Paradox</small></footer></div>
+          <div id="copyright"><footer><strong><small>©Team Paradox (Arif-1922020007, Abdullah-1922020016, Mahade-1922020018)</small></strong></footer></div>
     </header>
     
     

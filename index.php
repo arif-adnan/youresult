@@ -1,16 +1,16 @@
 <html>
 <head>
-    <title>Student Result Management System</title>
+    <title>Youresult</title>
 <link rel="stylesheet" href="csss/style.css" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Flamenco" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 </head>
 <body>
     <header>
       <nav>
-        <div class="row clearfix">
-            <ul class="main-nav" animate slideInDown>
+        <div class="row clearfix" animate slideInDown>
+            <ul class="main-nav" >
                 <li><a href="index.php">Home</a></li>
                 <li><a href="login.php">Admin Login</a></li>
                 <li><a href="admin/contactus.php">Contact</a></li>
@@ -26,7 +26,7 @@
               <br><br>
             <tr>
                 <th class="name1">Roll No.</th>
-                <td class="name2"><input type="text" name="rollno" required class="box1" placeholder="Enter your ID"/></td>
+                <td class="name2"><input type="text" name="rollno" required class="box1" placeholder="Enter your roll no."/></td>
             </tr>
             <tr>
                 <th class="class1">Class</th>

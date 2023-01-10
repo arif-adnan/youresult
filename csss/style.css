@@ -18,7 +18,6 @@ header {
 }
 .clearfix:after {
   content: " ";
-  /* visibility: ; */
   display: block;
   height: 9px;
   clear: both;
@@ -41,7 +40,6 @@ header {
   padding: 5px 2px;
   color: #fff;
   text-decoration: none;
-  /* text-transform: uppercase; */
   font-size: 90%;
   font-weight: 100;
 }

@@ -2,7 +2,6 @@
 <?php
 if(isset($_POST['submit']))
 {
-
 	include('dbcon.php');
 	
 	$standerd=$_POST['std'];
@@ -121,10 +120,6 @@ $data=mysqli_fetch_assoc($run);
              
           </table>
              <h1>You Are <span class="colorchange1"><?php 
-                        if($all<=500) 
-                        // {
-                        //     echo "Fail, better luck next time!";
-                        // }
                         if($total1<40 || $total2<40 || $total3<40 || $total4<40 || $total5<40){
                           echo "Fail, better luck next time!";
                         }

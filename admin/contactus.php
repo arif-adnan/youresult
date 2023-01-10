@@ -3,7 +3,7 @@
     <title>Contact</title>
 <link rel="stylesheet" href="../csss/contactus.css" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Flamenco" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 </head>
 <body>
@@ -48,7 +48,7 @@
                 <td ><textarea class='tbldata1' name="massage" placeholder='Type here...'></textarea></td>
               </tr>
               <tr>
-              <td colspan='2'><input type="submit" name='submit' value='SEND' class='submit'/></td>
+              <td><input type="submit" name='submit' value='SEND' class='submit'/></td>
               </tr>
           </table>
        </form>

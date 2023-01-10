@@ -17,7 +17,7 @@ session_start();
     <title>Homepage</title>
 <link rel="stylesheet" href="../csss/secondstep.css" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Flamenco" rel="stylesheet">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
 
 </head>
 <body>
@@ -43,7 +43,7 @@ session_start();
               
               
           <table class="table1">
-              <span> <h4 class="h_3">Mid Term (A)</h4></span>
+              <span> <h4 class="h_3">Mid Term</h4></span>
              <tr>
                 <th>Bangla</th>   <th> English </th> <th>Math</th>
              </tr>
@@ -65,7 +65,7 @@ session_start();
              </tr>
              
          </table>
-          <span> <h4 class="h3">Final Exam (B)</h4> </span>
+          <span> <h4 class="h3">Final Exam</h4> </span>
          <table class="table4">
              <tr>
                 <th>Bangla</th>   <th> English </th> <th>Math</th>
